@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": null, "name": "profootballrumors.com" },
+      "author": null,
+      "title": "Jim Irsay Led Charge For Colts' Matt Ryan Benching - profootballrumors.com",
+      "description": "Jim Irsay has placed his hands on the Colts' personnel steering wheel at key junctures this year. Nine months after &hellip;",
+      "url": "https://www.profootballrumors.com/2022/10/jim-irsay-led-charge-for-colts-matt-ryan-benching",
+      "urlToImage": "https://cdn.profootballrumors.com/files/2022/10/USATSI_19246092-1024x684.jpg",
+      "publishedAt": "2022-10-26T03:58:00Z",
+      "content": "Jim Irsay has placed his hands on the Colts’ personnel steering wheel at key junctures this year. Nine months after the owner insisted Carson Wentz be a Colts one-and-done, he led the way to Wentz’s … [+2749 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Natasha Turak, Sam Meredith, Amanda Macias",
+      "title": "Live updates: Latest news on Russia and the war in Ukraine - CNBC",
+      "description": "A \"dirty bomb\" would contaminate a large area with radioactivity, making it harmful or uninhabitable for residents there, without using a nuclear explosion.",
+      "url": "https://www.cnbc.com/2022/10/25/russia-ukraine-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107119952-16633400902022-09-16t144954z_1248282560_rc2diw9xvi2x_rtrmadp_0_ukraine-crisis-zelenskiy.jpeg?v=1666692725&w=1920&h=1080",
+      "publishedAt": "2022-10-26T03:56:00Z",
+      "content": "Russia intends to raise at the United Nations Security Council on Tuesday its accusation that Ukraine is planning a \"dirty bomb\" attack and has urged U.N. chief Antonio Guterres to do all he can to \"… [+1271 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Liberal U.S. lawmakers withdraw Ukraine letter after blowback - Reuters",
+      "description": "A group of liberal U.S. Democrats withdrew a letter to the White House urging a negotiated settlement to the war in Ukraine, the group's chairperson, Democratic Representative Pramila Jayapal, said on Tuesday, after blowback from within their own party.",
+      "url": "https://www.reuters.com/world/us-congress-progressives-withdraw-letter-urging-negotiations-end-ukraine-war-2022-10-25/",
+      "urlToImage": "https://www.reuters.com/resizer/Ol-G_wtE6yOap-maI313aatvKMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MB3SNVGEEZIJFKY5AUN5T57O3E.jpg",
+      "publishedAt": "2022-10-26T02:23:00Z",
+      "content": "WASHINGTON, Oct 25 (Reuters) - A group of liberal U.S. Democrats withdrew a letter to the White House urging a negotiated settlement to the war in Ukraine, the group's chairperson, Democratic Represe… [+3312 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Amir Vera, Bill Kirkos, Brad Parks",
+      "title": "Man accused of driving a car through the Waukesha Christmas parade delivers tearful closing arguments - CNN",
+      "description": "Darrell Brooks told jurors it was not his intent to drive an SUV through a crowd and kill six people.",
+      "url": "https://www.cnn.com/2022/10/25/us/waukesha-darrell-brooks-trial/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221025174609-02-darrell-brooks-trial-102522-screengrab.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-26T01:36:00Z",
+      "content": "Darrell Brooks told jurors Tuesday during closing arguments he did not intentionally plow a SUV through a Christmas parade in Waukesha, Wisconsin, last year, which left six dead and dozens more injur… [+3779 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Laura Italiano",
+      "title": "The Trump Org trial has 7 jurors so far; 2 dislike how he ran things - Business Insider",
+      "description": "The Manhattan jury for Trump's tax fraud trial includes a retiree \"upset\" by how he ran things and an editor who disliked his Supreme Court picks.",
+      "url": "https://www.businessinsider.com/trump-org-trial-jurors-two-dislike-how-he-ran-country-2022-10",
+      "urlToImage": "https://i.insider.com/6358581efc29ff001a5f6e98?width=1200&format=jpeg",
+      "publishedAt": "2022-10-26T00:56:21Z",
+      "content": "The Manhattan jury that will decide whether former President Donald Trump's international real-estate company is guilty of tax fraud includes two women who said in court that they didn't like how the… [+3985 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Mary Ilyushina, Emily Rauhala",
+      "title": "Ukrainian forces advance against Russian fighters in Kherson and Bakhmut - The Washington Post",
+      "description": "In the Donetsk region, Ukrainians hit Wagner mercenaries trying to take Bakhmut. To the south, they struck fighters loyal to Chechen leader Ramzan Kadyrov.",
+      "url": "https://www.washingtonpost.com/world/2022/10/25/bakhmut-kherson-ukraine-war-russia/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZPS6J5CS4II63LELBC57VMOFUU.jpg&w=1440",
+      "publishedAt": "2022-10-26T00:36:00Z",
+      "content": "Comment on this story\r\nUkrainian forces continued their advance against the Russian military in the southern Kherson region Tuesday, pushed back Russian mercenaries from Bakhmut in eastern Donetsk, a… [+8707 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Sarah Min",
+      "title": "Stock futures fall after Alphabet reports earnings miss - CNBC",
+      "description": "Traders digested weaker-than-expected quarterly results from Google-parent Alphabet.",
+      "url": "https://www.cnbc.com/2022/10/25/stock-market-futures-open-to-close-news.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107131099-1665156873760-nys.jpg?v=1666735354&w=1920&h=1080",
+      "publishedAt": "2022-10-26T00:16:00Z",
+      "content": "U.S. stock futures fell on Tuesday night after disappointing third-quarter results from Alphabet marked a foreboding start to Big Tech earnings this week.\r\nDow Jones Industrial Average futures fell b… [+1565 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Michael Phillis",
+      "title": "School gunman had AR-15-style weapon, 600 rounds of ammo - The Associated Press",
+      "description": "ST. LOUIS (AP) — A 19-year-old who killed a teacher and a 15-year-old girl at a St. Louis high school was armed with an AR-15-style rifle and what appeared to be more than 600 rounds of ammunition, a police official said Tuesday.",
+      "url": "https://apnews.com/article/crime-shootings-school-st-louis-00bda97835851e40fd9654a80987b36d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/28fb4893ab2e4ff38263d318b2fe52be/3000.jpeg",
+      "publishedAt": "2022-10-25T23:16:30Z",
+      "content": "ST. LOUIS (AP) A 19-year-old who killed a teacher and a 15-year-old girl at a St. Louis high school was armed with an AR-15-style rifle and what appeared to be more than 600 rounds of ammunition, a p… [+5831 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Watch: USGS Details 5.1 Magnitude Earthquake Near San Jose - NBC Bay Area",
+      "description": "Annemarie Baltay, a seismologist with the USGS, breaks down the 5.1 magnitude earthquake that rattled the Bay Area Tuesday morning.Stay connected: Follow us ...",
+      "url": "https://www.youtube.com/watch?v=OT3JkcSeDg0",
+      "urlToImage": "https://i.ytimg.com/vi/OT3JkcSeDg0/maxresdefault.jpg",
+      "publishedAt": "2022-10-25T23:05:14Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Variety" },
+      "author": "Matt Donnelly",
+      "title": "James Gunn and Peter Safran Give DC Studios and David Zaslav Bold, Brash and Slightly Risky New Guardians - Variety",
+      "description": "James Gunn spent his summer thinking about the future. Three months before Tuesday’s shock announcement that he and longtime manager-turned-producer Peter Safran would take the reins at DC Films, the director showed up to July’s San Diego Comic-Con as a Disne…",
+      "url": "https://variety.com/2022/film/news/dc-films-james-gunn-peter-safran-hollywood-reacts-1235414194/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2022/10/Peter-Safran-and-James-Gunn-2.jpg?w=1000&h=562&crop=1",
+      "publishedAt": "2022-10-25T23:03:00Z",
+      "content": "James Gunn spent his summer thinking about the future. \r\nThree months before Tuesday’s shock announcement that he and longtime manager-turned-producer Peter Safran would take the reins at DC Films, t… [+7512 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Hospitals caring for high numbers of children infected with respiratory illnesses - PBS NewsHour",
+      "description": "With COVID still a concern and the flu season now underway and showing signs it could be severe, there’s a third virus that’s surging and has physicians worr...",
+      "url": "https://www.youtube.com/watch?v=tjqSmSe_IuY",
+      "urlToImage": "https://i.ytimg.com/vi/tjqSmSe_IuY/maxresdefault.jpg",
+      "publishedAt": "2022-10-25T22:22:58Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Space.com" },
+      "author": "Mike Wall",
+      "title": "Methane 'super-emitters' on Earth spotted by space station experiment - Space.com",
+      "description": "EMIT has identified more than 50 methane super-emitters in its first few months of operation — and that's not even its main job.",
+      "url": "https://www.space.com/emit-instrument-international-space-station-methane-super-emitters",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ubS4qMtmhMYxSyX9ok29aS-1200-80.jpg",
+      "publishedAt": "2022-10-25T21:58:17Z",
+      "content": "A powerful eye in the sky is helping scientists spy \"super-emitters\" of methane, a greenhouse gas about 80 times more potent than carbon dioxide.\r\nThat observer is NASA's Earth Surface Mineral Dust S… [+4159 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lifehacker.com" },
+      "author": "Daniel Oropeza",
+      "title": "Don't Buy the 2021 Apple TV 4K, Even at a Discount - Lifehacker",
+      "description": "The 2021 Apple TV 4K is cheap on Amazon right now, but it's not worth it.",
+      "url": "https://lifehacker.com/dont-buy-the-2021-apple-tv-4k-even-at-a-discount-1849700641",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/973d535d65bcc48cff411689c1c2c732.jpg",
+      "publishedAt": "2022-10-25T21:30:00Z",
+      "content": "I always get excited when a new version of a gadget is about to come outnot necessarily because I want the latest and best, but because I love scoring a good deal on last years model. However, someti… [+2239 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YourTango" },
+      "author": "Aria Gmitter",
+      "title": "The Tarot Horoscope For Each Zodiac Sign On October 26, 2022 - YourTango",
+      "description": "Here is each zodiac sign's free daily tarot card horoscope for Wednesday, October 26, 2022, with predictions for when the Sun is in Scorpio.",
+      "url": "https://www.yourtango.com/2022355129/tarot-horoscope-each-zodiac-sign-october-26-2022",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/styles/listing_big/public/image_blog/tarot-horoscope-october-26-2022.jpg?itok=kqUFRgd0",
+      "publishedAt": "2022-10-25T21:06:24Z",
+      "content": "Each zodiac sign's tarot card horoscope is here for Wednesday, October 26, 2022. It's a great day for all zodiac signs, according to Wednesday's tarot card reading.\r\nYesterday was intense with the la… [+5427 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Entertainment Tonight" },
+      "author": "Mona Khalifeh‍",
+      "title": "Leslie Jordan Car Crash: 9-1-1 Call Details Scary Scene, Actor Was Not Breathing When Authorities Arrived - Entertainment Tonight",
+      "description": "The actor died on Oct. 24 following a car accident in Hollywood, California. He was 67.",
+      "url": "https://www.etonline.com/leslie-jordan-car-crash-9-1-1-call-details-scary-scene-actor-was-not-breathing-when-authorities",
+      "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2022-10/GettyImages-1313207251.jpg?h=e7276dbf&itok=1qkhQ0Iu",
+      "publishedAt": "2022-10-25T20:05:53Z",
+      "content": "New details are emerging about the death of Leslie Jordan. The actor and comedian died Monday morning after a car accident in Hollywood, California. He was 67.\r\nPer a statement released by the Los An… [+3221 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "NFL Week 8 Power Rankings: Sinking Bucs, Packers can learn from Phillies and get right, make run in playoffs - CBS Sports",
+      "description": "Pete Prisco says the sky isn't falling for Tom Brady and Aaron Rodgers, but things are clearing up in Seattle",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-power-rankings-sinking-bucs-packers-can-learn-from-phillies-and-get-right-make-run-in-playoffs/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/25/125c1e66-2212-4dda-9e75-8aff9654b7c1/thumbnail/1200x675/76de984661b69aebc08aa99d5ea15d0c/madbradypowerrankings.png",
+      "publishedAt": "2022-10-25T19:55:00Z",
+      "content": "If you are a fan of an NFL team, pay attention to the Philadelphia Phillies.\r\nWhy?\r\nThey are in the World Series after entering the postseason as the sixth seed in the National League, with the third… [+10125 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Cut" },
+      "author": "Asia Milia Ware",
+      "title": "The Chemical-Hair-Straighteners Cancer-Link War Is Beginning - The Cut",
+      "description": "32-year-old Jenniffer Mitchell becomes the first person to sue L’Oreal USA and five other manufacturers over hair-straightening chemicals.",
+      "url": "http://www.thecut.com/2022/10/the-chemical-hair-straighteners-cancer-link-war-is-beginning.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/7ad/7e1/70479f530b4598352b2e8336fcb80b3cad-GettyImages-78767112.1x.rsocial.w1200.jpg",
+      "publishedAt": "2022-10-25T19:53:13Z",
+      "content": "Last week, a devastating study linked women who use hair relaxers to a much higher risk of uterine cancer. The study was shocking to some, but for others, like 32-year-old Missouri woman Jenniffer Mi… [+1482 chars]"
+    },
+    {
+      "source": { "id": "nfl-news", "name": "NFL News" },
+      "author": "Kevin Patra",
+      "title": "Packers QB Aaron Rodgers says 'guys who are making too many mistakes shouldn't be playing' - NFL.com",
+      "description": "Green Bay Packers quarterback Aaron Rodgers had a blunt assessment of his team on Tuesday, saying that \"guys who are making too many mistakes shouldn't be playing.\"",
+      "url": "https://www.nfl.com/news/packers-qb-aaron-rodgers-says-guys-who-are-making-too-many-mistakes-shouldn-t-be",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/weyq2enlgnzthbiusyrl",
+      "publishedAt": "2022-10-25T19:50:00Z",
+      "content": "The 3-4 Green Bay Packers are off to their worst start ever through seven games under Aaron Rodgers following Sunday's mistake-filled loss to the Washington Commanders.\r\nDuring his weekly appearance … [+3071 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PEOPLE" },
+      "author": "https://www.facebook.com/peoplemag",
+      "title": "British Radio Host Tim Gough Dies on the Air 'Doing What He Loved' - PEOPLE",
+      "description": "British radio broadcaster Tim Gough has died at age 55 after suffering a medical emergency while on the air",
+      "url": "https://people.com/human-interest/british-radio-host-tim-gough-dies-on-the-air/",
+      "urlToImage": "https://people.com/thmb/bDMhUGOG7BmoKNk1DFxGkCXA4mE=/2000x1426/filters:fill(auto,1)/radio-broadcaster-death-102522-f817687424104ba6a8b8f1520059abf5.jpg",
+      "publishedAt": "2022-10-25T18:58:00Z",
+      "content": "British radio broadcaster Tim Gough died at age 55 Monday after he experienced a medical emergency while on the air.\r\nGough died \"from a suspected heart attack\" during an episode of his show on GenX … [+1643 chars]"
+    },
+    {
+      "source": { "id": null, "name": "DallasCowboys.com" },
+      "author": "Patrik Walker",
+      "title": "Cowboys Strike Deal, Acquire Johnathan Hankins - DallasCowboys.com",
+      "description": "The Cowboys are adding a former NFC East foe to the roster, former Giants run-stopper Johnathan Hankins, with the hopes of getting them over their one defensive weakness in 2022.",
+      "url": "https://www.dallascowboys.com/news/cowboys-strike-deal-acquire-johnathan-hankins",
+      "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/cowboys/phruxxjoj4hwkmns8m63",
+      "publishedAt": "2022-10-25T18:35:41Z",
+      "content": "FRISCO, Texas - There's a very large football-playing human on the way to the Dallas Cowboys, and his name is Johnathan Hankins. The club finalized talks on Tuesday with the Las Vegas Raiders to send… [+2205 chars]"
+    }
+  ]
+}
